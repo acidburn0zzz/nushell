@@ -37,4 +37,4 @@ nu-table = {version = "0.18.2", path = "../nu-table"}
 nu-value-ext = {version = "0.18.2", path = "../nu-value-ext"}
 
 [target.'cfg(unix)'.dependencies]
-users = "0.10.0"
+users = "0.11.0"
